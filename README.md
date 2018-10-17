@@ -7,7 +7,7 @@ This slide made by ImpressJS and you can find the ImpressJS In GitHub for docume
 
 ### How is this working ?
 
-Just open the index.html file in your Browser and change slides with : ``⬅`` ``➡`` ``⬆`` ``⬇`` Keys
+Just open the index.html file in your Browser and change slides with : ``←`` | ``→`` | ``⬆`` | ``⬇`` Keys
 
 Better Frame rate in better hardware for 3D Slide
 
